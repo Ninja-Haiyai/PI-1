@@ -36,7 +36,8 @@
 
 * **Funcionalidades:**
     * Calcular a posição.
-    * 
+    * Calcular a velocidade
+    * Calcular a aceleração 
 
 **Funcionalidades:**
 
