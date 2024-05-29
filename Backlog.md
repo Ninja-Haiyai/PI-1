@@ -16,23 +16,27 @@
 
 * **Descrição:** Desenvolver a interface visual do site, garantindo que seja responsiva e intuitiva para os usuários.
 * **Critérios de Aceitação:**
-    * A interface visual deve ser responsiva.
-    * A navegação pelo site deve ser fácil e intuitiva.
-    * Deve mostrar os dados recebidos do arduíno
+  * Deve mostrar os dados recebidos do arduíno
 
 **EP 02: LIDAR COM OS DADOS ENVOLVIDOS**
 
 * **Descrição:** Implementar as funcionalidades para lidar com os dados do projeto.
 * **Critérios de Aceitação:**
-    * Os dados do projeto devem ser carregados e armazenados de forma segura e eficiente.
+    * Os dados do projeto devem ser carregados, tratados e persistidos em um banco de dados
 
 **Capacidades:**
 
 **CP 01: Conseguir mostrar os dados e informações do projeto**
 
 * **Funcionalidades:**
-    * Exibir os dados do projeto em uma tabela ou lista.
-    * Exibir detalhes de cada dado do projeto.
+    * Exibir os dados do projeto em um gráfico.
+    * Exibir o percurso do projeto
+
+ **CP 02: Conseguir tratar os dados recebidos por Bluetooth**
+
+* **Funcionalidades:**
+    * Calcular a posição.
+    * 
 
 **Funcionalidades:**
 
