@@ -41,7 +41,7 @@
 
 **Funcionalidades:**
 
-**F1: Uma página web responsiva**
+**F1: Uma página web**
 
 * **Epic:** EP 01
 * **Capacidade:** CP 01
