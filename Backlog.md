@@ -1,6 +1,6 @@
-## Backlog Projeto Pi
+## EggQueen System
 
-**Projeto:** PI 1- 2024/1
+**Projeto:** EggQueen System- 2024/1
 
 **Objetivo:** Criar um sistema web para gerenciamento dos dados que vão ser recebidos de um carrinho que segue uma linha.
 
